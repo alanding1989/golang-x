@@ -1,0 +1,39 @@
+[submodule "crypto"]
+	path = crypto
+	url = git@github.com:golang/crypto.git
+[submodule "image"]
+	path = image
+	url = git@github.com:golang/image.git
+[submodule "lint"]
+	path = lint
+	url = git@github.com:golang/lint.git
+[submodule "net"]
+	path = net
+	url = git@github.com:golang/net.git
+[submodule "perf"]
+	path = perf
+	url = git@github.com:golang/perf.git
+[submodule "review"]
+	path = review
+	url = git@github.com:golang/review.git
+[submodule "sync"]
+	path = sync
+	url = git@github.com:golang/sync.git
+[submodule "sys"]
+	path = sys
+	url = git@github.com:golang/sys.git
+[submodule "text"]
+	path = text
+	url = git@github.com:golang/text.git
+[submodule "time"]
+	path = time
+	url = git@github.com:golang/time.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:golang/tools.git
+[submodule "tour"]
+	path = tour
+	url = git@github.com:golang/tour.git
+[submodule "vgo"]
+	path = vgo
+	url = git@github.com:golang/vgo.git
